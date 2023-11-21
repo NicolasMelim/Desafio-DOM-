@@ -1,0 +1,13 @@
+h1{
+    color: blue;
+}
+.aprov{
+    color: white;
+    background-color: green;
+    border: 1px solid black;
+}
+.reprov{
+    color: white;
+    background-color: red;
+    border: 1px solid black;
+}
